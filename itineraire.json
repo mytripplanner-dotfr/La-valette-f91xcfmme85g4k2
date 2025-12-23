@@ -1,0 +1,115 @@
+{
+  "pays": "Malte",
+  "drapeau": "🇲🇹",
+  "symbole": "☀️",
+  "titre": "Évasion Relaxante à La Valette",
+  "budget_total": "700 €",
+  "duree": "4 jours",
+  "temps_vol": "2h55 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à La Valette",
+      "legende": "Débutez votre séjour en douceur en explorant les charmes intemporels de La Valette. Laissez-vous imprégner par l'atmosphère unique de cette capitale historique, classée au patrimoine mondial de l'UNESCO.",
+      "lieu": "La Valette",
+      "activites": [
+        "🛬 Arrivée à l'aéroport de Malte (MLA)",
+        "🛏️ Installation à l'hôtel et détente",
+        "🚶‍♂️ <strong>Balade relaxante dans les rues de La Valette</strong>: Flânez dans les ruelles pavées, admirez l'architecture baroque et les balcons colorés, et imprégnez-vous de l'ambiance méditerranéenne."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Depuis l'aéroport, vous pouvez prendre un taxi (environ 20-25€) ou le bus public X4 (environ 2€) pour rejoindre La Valette en 20-30 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Jardins Panoramiques et Trésors Baroques",
+      "legende": "Plongez dans l'histoire et la beauté de La Valette avec des vues imprenables et des joyaux architecturaux. Profitez d'une journée équilibrée entre culture et moments de quiétude.",
+      "lieu": "La Valette",
+      "activites": [
+        "🌳 <strong>Jardins Supérieurs de Barrakka</strong>: Profitez d'une vue imprenable sur le Grand Port et les Trois Cités, un lieu idéal pour se détendre et prendre de magnifiques photos.",
+        "⛪ <strong>Co-Cathédrale Saint-Jean</strong>: Admirez l'intérieur somptueux de cette cathédrale baroque, un chef-d'œuvre de l'art et de l'histoire des Chevaliers de Malte.",
+        "🚢 <strong>Croisière dans le Grand Port</strong>: Laissez-vous bercer par les eaux calmes lors d'une croisière offrant une perspective unique sur les fortifications de La Valette et les Trois Cités."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce culturelle",
+          "texte": "La Co-Cathédrale Saint-Jean est un incontournable. Prévoyez une tenue respectueuse (épaules et genoux couverts) pour la visite."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛵",
+      "titre": "Charme des Trois Cités et Douceur Maltaise",
+      "legende": "Échappez à l'agitation de la capitale pour découvrir le charme authentique des Trois Cités. Une journée dédiée à la découverte de l'histoire maritime et à la détente au bord de l'eau.",
+      "lieu": "Les Trois Cités (Vittoriosa, Senglea, Cospicua)",
+      "activites": [
+        "🚤 <strong>Traversée vers les Trois Cités</strong>: Prenez un \"dghajsa\" (bateau traditionnel) ou un ferry depuis La Valette pour une traversée pittoresque vers Vittoriosa.",
+        "🚶‍♀️ <strong>Exploration de Vittoriosa et Senglea</strong>: Baladez-vous dans les ruelles historiques, visitez le Fort Saint-Ange et profitez des vues depuis les jardins de Senglea.",
+        "☕ <strong>Pause café relaxante au bord de l'eau</strong>: Savourez un moment de calme dans un café avec vue sur les marinas des Trois Cités, loin de l'agitation."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🛶",
+          "titre": "Transport local",
+          "texte": "Les \"dghajsa\" sont une manière charmante et authentique de traverser le Grand Port. N'hésitez pas à négocier le prix."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez de vos dernières heures à La Valette pour quelques achats souvenirs ou une dernière promenade. Repartez avec des souvenirs mémorables de cette île ensoleillée.",
+      "lieu": "La Valette",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs</strong>: Parcourez les boutiques de Republic Street pour trouver des produits locaux, de l'artisanat ou des souvenirs maltais.",
+        "🚶‍♂️ <strong>Dernière balade et déjeuner</strong>: Profitez d'une dernière promenade dans les rues ou le long des remparts, suivie d'un déjeuner typique maltais dans un restaurant local.",
+        "🛫 <strong>Départ de Malte</strong>: Transfert vers l'aéroport pour votre vol retour vers Paris, la tête pleine de beaux souvenirs."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport et les formalités d'embarquement, surtout en haute saison."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "272 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "30 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "180 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "150 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "40 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril à Juin", "symbole": "☀️" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures sont douces au printemps et en automne (18-25°C). Prévoir des vêtements légers et un gilet pour les soirées.", "symbole": "🌡️" },
+    { "titre": "L'euro est la monnaie officielle. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La Valette est très bien desservie par les bus. La marche est le meilleur moyen d'explorer la ville et les Trois Cités.", "symbole": "🚶" },
+    { "titre": "Le maltais et l'anglais sont les langues officielles. Vous n'aurez aucune difficulté à communiquer.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-MLA/2026-04-20/2026-04-24", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Malta", "url": "https://www.visitmalta.com/fr/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Public Transport Malta", "url": "https://www.publictransport.com.mt/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Malte", "url": "https://www.accuweather.com/fr/mt/valletta/121683/weather-forecast/121683", "symbole": "🌤️" }
+  ]
+}
